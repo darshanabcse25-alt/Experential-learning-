@@ -4,7 +4,7 @@
 </head>
 
 <body bgcolor="browm">   
- <h1>Brew & Bean Café ☕</h1> 
+ <h1>Brew & Bean Café </h1> 
  
   <form>        
 <h3>Select Your Coffee</h3> 
